@@ -40,7 +40,7 @@
 		5272E86D278BC7BC0006C817 = {
 			isa = PBXGroup;
 			children = (
-				5272E878278BC7BC0006C817 /* modulo4nativoios */,
+				5272E878278BC7BC0006C817 /* Modulo4NativoIOS */,
 				5272E877278BC7BC0006C817 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -53,7 +53,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		5272E878278BC7BC0006C817 /* modulo4nativoios */ = {
+		5272E878278BC7BC0006C817 /* Modulo4NativoIOS */ = {
 			isa = PBXGroup;
 			children = (
 				5272E879278BC7BC0006C817 /* AppDelegate.swift */,
@@ -64,7 +64,7 @@
 				5272E884278BC7BE0006C817 /* LaunchScreen.storyboard */,
 				5272E887278BC7BE0006C817 /* Info.plist */,
 			);
-			path = modulo4nativoios;
+			path = Modulo4NativoIOS;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
